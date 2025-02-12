@@ -12,28 +12,29 @@
 - [Questions](#questions)
 
 ## Description
-This is another description of another project
+Professional README Generator is a command-line tool that helps developers quickly create well-structured README.md files. By answering simple prompts, users can generate a professional README with essential sections like project description, installation, usage, license, and contact info.
 
 ## Installation
-These are the installation instructions
+Install NPM
 
 ## Usage 
-This is the usage of the project
+This is the usage of the project is to create a Professional README!
 
 ## License
 This is licensed with MIT License.
 
 ## Contributing
-These are what contributes to the project 
+Contributor is JavaScript  
 
 ## Tests
-These are the instructions for testing the project.
+Use node index.js in the package.json file for testing.
 
 ## Walkthrough
 This is the Walkthrough Video for the generator
 
 ## Questions
+Any Questions?
 Contact:
 Github: [Oshockley](https://github.com/Oshockley)
-Email: [shockleyoneal@gmail.com](mailto:shockleyoneal@gmail.com)
+Email: [shockleyoneal@gmail.com](mailto:shockleyoneal@gmail.com) 
     
