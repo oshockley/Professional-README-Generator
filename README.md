@@ -15,7 +15,7 @@
 Professional README Generator is a command-line tool that helps developers quickly create well-structured README.md files. By answering simple prompts, users can generate a professional README with essential sections like project description, installation, usage, license, and contact info.
 
 ## Installation
-Install NPM
+Install "inquirer dependencies" and Install "npm".
 
 ## Usage 
 This is the usage of the project is to create a Professional README!
@@ -27,7 +27,7 @@ This is licensed with MIT License.
 Contributor is JavaScript  
 
 ## Tests
-Use node index.js in the package.json file for testing.
+Use node index.js in the open intergrated terminal. 
 
 ## Walkthrough
 This is the Walkthrough Video for the generator
