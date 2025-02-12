@@ -31,7 +31,7 @@ Use node index.js in the open intergrated terminal.
 
 ## Walkthrough
 This is the Walkthrough Video for the generator
-https://drive.google.com/file/d/1d8bHqTle4iiBg1RFfGQu99CdsNRi9n3X/view?usp=drive_link
+https://drive.google.com/file/d/1tpq1qqNAgVDnkGmYsdlLDVxiiDc7ipdX/view?usp=drive_link
 
 ## Questions
 Any Questions?
